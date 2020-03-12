@@ -42,6 +42,7 @@ else:
     print(dict['username'])
     print(dict['password'])
     print(dict['age'])
+    un=input('enter username')
 
 
 
